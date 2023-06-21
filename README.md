@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Backend development**
 
 - 👨‍💻 All of my projects are available at [https://vivek377.github.io/](https://vivek377.github.io/)
 
