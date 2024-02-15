@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left">I am passionate about technology, dedicating my free time to building personal projects and participating in online coding challenges. Additionally, I enjoy staying informed about the latest industry trends through engaging in tech-related podcasts and pursuing online courses and certifications.</p>
+<p align="left">Enthusiastic about technology, dedicated to constructing personal projects and participating in online coding challenges. Stay informed about the latest industry trends through active engagement in tech-related podcasts and ongoing pursuit of online courses and certifications.</p>
 
 - 👨‍💻 All of my projects are available at [https://vivek377.github.io/](https://vivek377.github.io/)
 
