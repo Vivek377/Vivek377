@@ -3,13 +3,13 @@
 
 <p align="left">Enthusiastic about technology, dedicated to constructing personal projects and participating in online coding challenges. Stay informed about the latest industry trends through active engagement in tech-related podcasts and ongoing pursuit of online courses and certifications.</p>
 
-- 👨‍💻 All of my projects are available at [https://vivek377.github.io/](https://vivek377.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vivek377.github.io/)
 
 - 💬 Ask me about **react, javascript**
 
 - 📫 How to reach me **vk640890@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19Upxh0uAASLxIjYiD-TX-fCBmEGFhvuj/view?usp=sharing](https://drive.google.com/file/d/19Upxh0uAASLxIjYiD-TX-fCBmEGFhvuj/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1glmjf28v5xp_tKK5E8NZPT1Tce8FxiBX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
